@@ -1,1 +1,29 @@
-<
+.spicegirl1 {
+    width: 200px; 
+    height: 228px;
+    background: url('images/victoria.gif') no-repeat;
+    background-size: 100% 100%;
+}
+
+.spicegirl1:hover{ 
+    width: 200px; 
+    height: 228px;
+    background: url('images/victoria.jpg') no-repeat;
+    background-size: 100% 100%;
+}
+
+td {
+    color: blue;
+}
+
+.test{
+    width: 200px; 
+    height:228px;
+    background: url('images/victoria.gif') no-repeat;
+}
+
+.test:hover{
+    width: 200px; 
+    height: 228px;
+    background: url('images/victoria.jpg') no-repeat;
+}
