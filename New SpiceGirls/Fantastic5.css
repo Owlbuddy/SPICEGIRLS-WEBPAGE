@@ -66,5 +66,8 @@
 }
 td {
     color: blue;
+    width: 200px;
 }
-
+body{
+    background-image: url("images/light-tile.gif");
+}
